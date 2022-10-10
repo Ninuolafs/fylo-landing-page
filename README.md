@@ -33,7 +33,7 @@ Mobile Version
 
 ### Links
 
-- Solution URL: [Code on GitHub](https://your-solution-url.com)
+- Solution URL: [Code on GitHub](https://github.com/Ninuolafs/fylo-landing-page)
 - Live Site URL: [Live Site](https://ninuolafs.github.io/fylo-landing-page/)
 
 
